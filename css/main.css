@@ -40,8 +40,8 @@ header { background-size: cover; background-repeat: no-repeat; background-positi
 
 header .container { text-align: center; }
 
-@media (min-width: 700px) { header { background-size: contain; background-position: calc(50% - 300px) calc(100% + 20px); }
-  header.main-hero { height: 80vh; background-position: calc(50% - 350px) calc(100% + 20px); }
+@media (min-width: 700px) { header { background-size: contain; background-position: calc(35% - 300px) calc(100% + 20px); }
+  header.main-hero { height: 80vh; background-position: calc(40% - 350px) calc(100% + 20px); }
   header .container { text-align: right; } }
 
 header nav { max-width: 100%; }
